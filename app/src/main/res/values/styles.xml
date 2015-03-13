@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/forbes_blue</item>
+    </style>
+    <style name="FragmentHeadlineStyle">
+
+    </style>
+    <style name="FragmentDetailStyle">
+
+    </style>
+    <style name="HeadlineListStyle">
+
+    </style>
+</resources>

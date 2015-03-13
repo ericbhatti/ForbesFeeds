@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="FragmentHeadlineStyle">
+        <item name="android:layout_weight">7</item>
+        <item name="android:layout_width">0dp</item>
+    </style>
+
+    <style name="FragmentDetailStyle">
+        <item name="android:layout_weight">13
+        </item>
+        <item name="android:layout_width">0dp</item>
+    </style>
+
+    <style name="HeadlineListStyle">
+        <item name="android:choiceMode">singleChoice</item>
+    </style>
+</resources>
